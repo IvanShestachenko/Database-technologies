@@ -1,0 +1,19 @@
+# Maven build directory
+JPA-application-core/target/
+
+# IntelliJ IDEA project files
+JPA-application-core/.idea/
+JPA-application-core/*.iml
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor swap files
+*.swp
+*.swo
