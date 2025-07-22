@@ -9,7 +9,7 @@ The project uses PostgreSQL database and Java Persistence API basic classes for 
 
 ## Documentation contents
 
-Documentation consists of several gradually submitted related parts, featuring:
+Documentation (***database-modeling-and-setup-doc.pdf***) consists of several gradually submitted related parts, featuring:
 - Brief description of the information system that the database is being setup for;
 - Database modelling stages - conceptual, relational and ER models;
 - Tables creation script;
