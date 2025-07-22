@@ -27,3 +27,9 @@ Documentation (***db-modeling-and-setup-doc.pdf***) consists of several graduall
 | application-core/src/main/java/DAO/                        | Folder contains two Data Access Object classes – represents the data layer responsible for communication with the database; not directly accessible by the application users.                                                                                                               |
 | application-core/src/main/java/service/                    | Folder contains two service classes, which represent the interface provided to the application users. These service classes work primarily with Visitor and Event entities and use the corresponding provided methods of the DAO layer.                                                     |
 | application-core/src/main/java/Main.java                   | Main class of the application, contains structured demonstrational examples of the application usage. The application core is created for introductory purposes and, while not having a proper user interface or complete business logic, fully satisfies the B0B36DBS course requirements. |
+
+---
+
+## Author
+
+**Ivan Shestachenko, [Daniil Sofin](https://github.com/som202), B0B36DBS @ FEE CTU**
